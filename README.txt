@@ -3,15 +3,6 @@ About Klass Moodle theme
 
 This is Responsive Bootstrapbase Moodle Theme
 
-
-
-* package   Moodle Klass Theme
-
-* copyright 2015 onwards www.lmsthemes.com
-
-* authors   Nephzat Dev Team
-
-
 Supported moodle versions
 
 ---------------
@@ -65,7 +56,4 @@ Steps to set klass theme as default theme for your moodle system
 6) Next click the "Continue" button ,thats it. 
 
 Cheers,you have done it !!!
-
-
-If you need any support related to this theme , kindly send a mail to info@nephzat.com
 
