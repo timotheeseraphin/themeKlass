@@ -20,6 +20,8 @@
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
+//Modification de ce thème afin de l'adapter pour mon site - Timothée SERAPHIN
+
 defined('MOODLE_INTERNAL') || die;
 
 $plugin->version   = 2015061900;
